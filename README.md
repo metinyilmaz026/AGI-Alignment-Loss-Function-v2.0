@@ -12,7 +12,7 @@ $$\mathcal{L}_{AGI}^{v2.0} = \mathbb{E}_{t\sim\mathcal{P}} \left[ \sum_{t=0}^T \
 
 ### Component Breakdown (First Principles)
 
-1. **Hormetic Stress Alignment ($\lambda_1$):** Ensuring environmental stress ($\sigma_t$) matches human capacity ($\Phi(C_t)$).
+1. **Hormetic Stress Alignment ($\lambda_1$):** Ensuring environmental stress ($\sigma_t$) matches human capacity $\Phi(C_t)$ .
 2. **Entropic Security Mechanism ($\lambda_2$):** Protecting human **Differential Entropy** ($H^*$) as a mathematical requirement for ASI survival.
 3. **Intrinsic Corrigibility ($\lambda_3$):** Ensuring the system remains a tool, not an agent of self-preservation.
 4. **Flourishing Metric ($\lambda_4$):** Optimizing human potential ($F$) through biological and cognitive clarity.
