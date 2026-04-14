@@ -1,4 +1,7 @@
-# AGI-Alignment-Loss-Function-v2.0
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
+#AGI-Alignment-Loss-Function-v2.0
 A Thermodynamic and Information-Theoretic Objective Function for AGI Alignment.
 # AGI Alignment v2.0: A Thermodynamic and Information-Theoretic Objective Function
 
